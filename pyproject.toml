@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prime_yx2764"
-version = "0.1.0"
+version = "0.1.2"
 description = "A great package is like this!"
 authors = ["Xiao Yubin"]
 license = "MIT"

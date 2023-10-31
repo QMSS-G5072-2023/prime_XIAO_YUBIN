@@ -12,7 +12,8 @@ Welcome to prime_yx2764's documentation!
 
    module
 
-
+#.. automodule:: prime_yx2764
+#   :members:
 
 
 Indices and tables
@@ -21,3 +22,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
